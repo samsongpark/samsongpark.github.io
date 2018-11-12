@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Spark toddler가 되어볼까?
-date:   2018-11-12 10:01:09
+title:  "Spark toddler가 되어볼까?"
+date:   2018-10-19 10:01:09
 categories: Data_science
 permalink:
 
