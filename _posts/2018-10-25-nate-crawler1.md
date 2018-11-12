@@ -1,9 +1,10 @@
-﻿---
+---
 layout: post
 title:  "네이트 뉴스 크롤러를 작성해보자"
 date:   2018-10-25 16:22:25
 categories: Data_science
-permalink: pretty
+permalink:
+
 ---
 
 **네이트뉴스 크롤러를 만들어보자**
