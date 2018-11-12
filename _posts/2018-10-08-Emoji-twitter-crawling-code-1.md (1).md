@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emoji를 추천해주는 기능은 없을까?"
-date:   2018-10-09 15:01:29
+date:   2018-10-08 15:01:29
 categories: Data_science
 permalink: pretty
 ---
