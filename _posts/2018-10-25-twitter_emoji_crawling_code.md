@@ -3,7 +3,7 @@ layout: post
 title:  "Emoji를 추천해주는 기능은 없을까?"
 date:   2018-10-25 15:01:29
 categories: Data_science
-permalink: 2018-10-25-twitter_emoji_crawling_code.md
+permalink: _posts/2018-10-25-twitter_emoji_crawling_code.md
 ---
 
 
