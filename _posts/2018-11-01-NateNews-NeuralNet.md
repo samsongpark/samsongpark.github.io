@@ -1,9 +1,10 @@
-﻿---
+---
 layout: post
 title:  "Nate crawling: 내맘대로 작성해 본 Neural Net in R"
 date:   2018-11-01 16:22:25
 categories: Data_science
-permalink: pretty
+permalink:
+
 ---
 
 **R로 뉴럴넷을 만들어볼까?**
