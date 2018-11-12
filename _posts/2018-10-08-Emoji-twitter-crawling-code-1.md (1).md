@@ -46,10 +46,10 @@ setup_twitter_oauth(consumerKey, consumerSecret, accessToken, accessTokenSecret)
 > bigdata <- searchTwitter(keyword,n=50000,since = '2018-11-01', until = '2018-11-01', lang="ko")
 bigdata
 ```
+번거롭지만 하루에 50,000개씩 뽑아내기로 했다. 
 
 ```
 > df <- do.call("rbind", lapply(bigdata, as.data.frame))
 write.csv(df,"1F64F.csv")
 ```
 
-> Written with [StackEdit](https://stackedit.io/).
