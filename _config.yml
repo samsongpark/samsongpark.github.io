@@ -20,6 +20,8 @@ github_username:  samsongpark
 disqus_id: samsongpark.github   
 disqus_url: https://samsongpark-github.disqus.com
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
+google_analytics_id: UA-129109426-1
+
 
 permalink: /archivers/:title
 gems:
