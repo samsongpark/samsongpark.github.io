@@ -17,7 +17,8 @@ github_username:  samsongpark
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-disqus_shortname: samsongpark   # get one: https://disqus.com/admin/signup/
+disqus_id: samsongpark.github   
+disqus_url: https://samsongpark-github.disqus.com
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
